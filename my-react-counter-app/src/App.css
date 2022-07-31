@@ -1,0 +1,26 @@
+/*PALETA DE COLORES:  #E7F6F2 #A5C9CA #395B64 #2C3333*/
+
+body {
+  background: #E7F6F2;
+}
+
+.App {
+  text-align: center;
+  margin: auto;
+}
+
+h1 {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 50px;
+  color: #2C3333;
+  background-color: #A5C9CA;
+  padding: 0.5% 2%;
+ /* border: 3px solid #395B64;*/
+  border-radius: 5px;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  text-shadow: 0 1px 1px ghostwhite;
+}
